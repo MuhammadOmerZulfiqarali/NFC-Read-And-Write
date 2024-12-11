@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NFC Read and Write</string>
+    <string name="activate_tag">Activate Tag</string>
+    <string name="type_something">Type Something...</string>
+    <string name="plain_text">Plain Text!</string>
+    <string name="testing_purposes">Testing Purposes</string>
+    <string name="read_nfc">Read NFC!</string>
+    <string name="machine_id">Machine ID</string>
+    <string name="shop_id">Shop ID</string>
+    <string name="enter_the_text_in_the_below_text_box_and_bring_the_nfc_tag_near">Enter the text in the below text box and bring the nfc tag near!</string>
+    <string name="write_nfc_data">Write NFC Data</string>
+    <string name="nfc_read_amp_write"><![CDATA[NFC Read & Write]]></string>
+</resources>
